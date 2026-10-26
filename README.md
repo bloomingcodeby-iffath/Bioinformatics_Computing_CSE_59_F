@@ -1,2 +1,2 @@
-# Bioinformatics_Computing_CSE_59_F
+# Bioinformatics_Computing
 ## Rosalind BIC problems: https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
